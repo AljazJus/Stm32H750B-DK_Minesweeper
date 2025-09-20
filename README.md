@@ -1,4 +1,4 @@
-# STM32H750B-DK Minesweepwe
+# STM32H750B-DK Minesweeper
 
 ## Project summary
 This is a project for the subject "Organizacija računalnikov", lead by Profesor Robert Rozman at Faculty of Computer and Information Science in Ljubljana. The project thath helped me to initialize the display and tuch screen is [STM32H750B-DK_BSP_C_Basic](https://github.com/LAPSyLAB/ORLab-STM32H7).
